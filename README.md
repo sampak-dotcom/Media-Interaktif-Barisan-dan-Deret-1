@@ -71,7 +71,7 @@
             <h2>5. LKPD</h2>
         </a>
 		<a class="icon" href="https://heyzine.com/flip-book/eb80f01330.html" target="_blank">
-            <img src="https://cdn-icons-png.flaticon.com/128/1391/1391394.pnga" alt="Example 2">
+            <img src="https://cdn-icons-png.flaticon.com/128/1391/1391394.png" alt="Example 2">
             <h2>6. Tugas Individu</h2>
         </a>
 		<a class="icon" href="https://docs.google.com/spreadsheets/d/1CvA8m5IznXm519kzWHGkxZC6-nvDUOXI5V7V3WKudOk/edit?pli=1&gid=977640969#gid=977640969" target="_blank">
